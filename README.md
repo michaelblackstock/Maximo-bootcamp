@@ -27,6 +27,7 @@ Select a module, learn about the business story, and implement it using the hand
 
 - [Lab 1](./labs/lab1.md)
 - [Lab 2](./labs/lab2.md)
+- [Lab 3](./labs/lab3.md)
 
 ---
 
